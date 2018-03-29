@@ -14,7 +14,8 @@
 
 (thanks Rick)
 
-Julien Fiegehenn (simbabque)
+Julien Fiegehenn (simbabque)  
+simbabque@cpan.org
 
 ---
 
@@ -289,4 +290,4 @@ $ENV{MOJO_CONFIG} = $config_file;
 
 Slides will be on github soon.
 
-https://github.com/simbabque/talk-testing-with-db
+https://github.com/simbabque/talk-testing-with-db-mojo
